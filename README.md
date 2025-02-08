@@ -1,29 +1,53 @@
 take a quick look on my portfolios roadmap 
 /dropps
 ├── /public
+
 │   ├── /cursors
+
 ├── /src
+
 │   ├── /app
+
 │   │   ├── layout.tsx
+
 │   │   └── page.tsx
+
 │   ├── /components
+
 │   │   ├── /animations
+
 │   │   │   └── FadeInWhenVisible.tsx
+
 │   │   ├── /atoms
+
 │   │   │   ├── contactPopup.tsx
+
 │   │   │   ├── fab.tsx
+
 │   │   │   ├── ltrGrid.tsx
+
 │   │   │   ├── milestones.tsx
+
 │   │   │   ├── stacks.tsx
+
 │   │   │   ├── worksSwiper.tsx
+
 │   │   │   └── worksTile.tsx
+
 │   │   └── /molecules
+
 │   │       └── header.tsx
+
 │   ├── /constants
+
 │   │   ├── milestoneData.ts
+
 │   │   ├── stacksData.ts
+
 │   │   └── worksData.ts
+
 │   ├── /types
+
 │   │   └── types.ts
 
 
